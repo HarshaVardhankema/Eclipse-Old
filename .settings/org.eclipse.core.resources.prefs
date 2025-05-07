@@ -1,2 +1,10 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding/<project>=windows-1252
+=======
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
+>>>>>>> 37ceadc9cfe7dd4f7fbf20f179d90feffcfb7ee2

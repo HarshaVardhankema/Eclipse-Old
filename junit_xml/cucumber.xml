@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="67.811" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login and Navigation" name="Successful login and navigating to Patients module" time="67.658">
+<system-out><![CDATA[
+Given the user is already logged in.........................................passed
+Given the user navigates to the Patients module.............................passed
+When the user searches for a patient by name................................passed
+Then the user clicks on the Filter button to sort...........................passed
+And the user clicks on the Three Dots option................................passed
+]]></system-out>
+</testcase>
+</testsuite>
